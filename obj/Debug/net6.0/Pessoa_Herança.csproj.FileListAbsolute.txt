@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\bin\Debug\net6.0\Pessoa_Herança.exe
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\bin\Debug\net6.0\Pessoa_Herança.deps.json
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\bin\Debug\net6.0\Pessoa_Herança.runtimeconfig.json
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\bin\Debug\net6.0\Pessoa_Herança.dll
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\bin\Debug\net6.0\Pessoa_Herança.pdb
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\Pessoa_Herança.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\Pessoa_Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\Pessoa_Herança.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\Pessoa_Herança.AssemblyInfo.cs
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\Pessoa_Herança.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\Pessoa_Herança.dll
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\refint\Pessoa_Herança.dll
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\Pessoa_Herança.pdb
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\Pessoa_Herança.genruntimeconfig.cache
+C:\Users\User\source\repos\Pessoa_Herança\Pessoa_Herança\obj\Debug\net6.0\ref\Pessoa_Herança.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pessoa_Herança/1.0.0": {
+        "runtime": {
+          "Pessoa_Herança.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pessoa_Herança/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
